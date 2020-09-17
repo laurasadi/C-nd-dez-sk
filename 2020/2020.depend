@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600339182 source:/home/laura/Documents/C++/2020/main.cpp
+	<iostream>
+	<string>
+
